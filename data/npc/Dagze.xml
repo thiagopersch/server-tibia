@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Dagze" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="1066"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I buy wands. Say {trade}."/>
+		<parameter key="shop_sellable" value="
+			terra rod,2181,100000;
+			snakebite rod,2182,100000;
+			hailstorm rod,2183,100000;
+			crystal wand,2184,110000;
+			wand of dragonbreath,2191,150000;
+			supreme vortex,7958,200000;
+			enchanted staff,2433,210000;
+			ice rod,8910,220000;
+			northwind rod,8911,230000;
+			supreme demonic rod,8921,240000;
+			wand of voodoo,8922,130000;
+			angel wand,13714,250000;
+			soulmaimer,14249,300000;
+			soultainter,14252,300000;
+			soulhexer,14253,300000;
+		"/>
+	</parameters>
+</npc>

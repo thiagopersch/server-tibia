@@ -1,0 +1,74 @@
+function onLogin(cid)
+    local voc = {
+        [1] = 2, -- Bardock
+        [2] = 28, -- Bills
+        [3] = 50, -- Botamo
+        [4] = 63, -- Brolly
+        [5] = 64, -- Bulma
+        [6] = 74, -- Buu
+        [7] = 84, -- C8
+        [8] = 96, -- C17
+        [9] = 105, -- C18
+        [10] = 113, -- Cabba
+        [11] = 123, -- Cell
+        [12] = 130, -- Cooler
+        [13] = 141, -- Dende
+        [14] = 154, -- Freeza
+        [15] = 164, -- Ginn
+        [16] = 173, -- Gohan
+        [17] = 200, -- Goku
+        [18] = 188, -- Goku Black
+        [19] = 219, -- Hitto
+        [20] = 228, -- Janemba
+        [21] = 236, -- Jiren
+        [22] = 250, -- Kagome
+        [23] = 261, -- Kaio
+        [24] = 270, -- Kame
+        [25] = 282, -- King Cold
+        [26] = 292, -- King Vegeta
+        [27] = 303, -- Kuririn
+        [28] = 314, -- Liquir
+        [29] = 322, -- Pan
+        [30] = 331, -- Piccolo
+        [31] = 345, -- Quitela
+        [32] = 353, -- Raditz
+        [33] = 362, -- Shenron
+        [34] = 370, -- Tapion
+        [35] = 385, -- Trunks
+        [36] = 398, -- Tsuful
+        [37] = 412, -- Turles
+        [38] = 425, -- Uub
+        [39] = 432, -- Vados
+        [40] = 440, -- Vegeta
+        [41] = 454, -- Vegetto
+        [42] = 20, -- Vermouth
+        [43] = 463, -- Videl
+        [44] = 470, -- Zaiko
+        [45] = 482, -- Zeno
+        
+        [47] = 495, -- Aizen
+        [48] = 504, -- Byakuya
+        [49] = 512, -- Ginn
+        [50] = 518, -- Grimmjow
+        [51] = 526, -- Hitsugaya
+        [52] = 537, -- Ichigo FullBring
+        [53] = 546, -- Ichigo
+        [54] = 558, -- Ishida
+        [55] = 569, -- Kyouraku
+        [56] = 574, -- Neliel
+        [57] = 581, -- Orihime
+        [58] = 587, -- Renji
+        [59] = 595, -- Rukia
+        [60] = 599, -- Sado
+        [61] = 610, -- Shinji
+        [62] = 619, -- Soi Fong
+        [63] = 626, -- Tousen
+        [64] = 634, -- Ulquiorra
+        [65] = 642, -- Urahara
+        [66] = 652, -- Yoruichi
+        [67] = 657 -- Zaraki
+    }
+    if (not voc[getPlayerVocation(cid)]) then return true end
+    doSetCreatureOutfit(cid, {lookType = voc[getPlayerVocation(cid)]}, -1)
+    return TRUE
+end

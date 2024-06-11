@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Razo" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="1158"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I buy helmets. Say {trade}."/>
+		<parameter key="shop_sellable" value="
+			ice barbarian helmet,2128,200000;
+			supreme helmet,2342,250000;
+			helmet of the ancients,2343,70000;
+			vaizard mask,5924,100000;
+			gillian mask,2458,10000;
+			neliel mask,2459,10000;
+			brass mask,2460,10000;
+			grey hollow mask,2461,10000;
+			giant hollow mask,2462,10000;
+			ulquiorra mask,2471,10000;
+			shinigami mask,2473,10000;
+			kyouraku helmet,2474,100000;
+			gohan helmet,2475,10000;
+			metal helmet,2479,50000;
+			piccolo helmet,2480,40000;
+			samurai helmet,2481,10000;
+			soldier helmet,2482,20000;
+			paikuhan helmet,2490,20000;
+			piccolo beanie,2491,20000;
+			brolly necklace,2493,25000;
+			great saiyaman helmet,2496,50000;
+			janemba helmet,2497,100000;
+			cell helmet,2498,150000;
+			golden freeza helmet,2499,200000;
+			hitto helmet,2501,250000;
+			freeza helmet,2502,300000;
+			black janemba helmet,2506,500000;
+			golden bandana,2323,200000;
+			hell shenlong helmet,13685,600000;
+			black shenlong helmet,13686,600000;
+			shenlong helmet,13687,600000;
+			soldier satanic helmet,13688,600000;
+			satanic helmet,13692,600000;
+			supreme infernal's shenlong helmet helmet,13724,900000;
+			fullbring helmet,13728,600000;
+			enchanted zangetsu helmet,13736,600000;
+			angel helmet,13732,1200000
+		"/>
+	</parameters>
+</npc>

@@ -1,0 +1,68 @@
+[27/3/2020 14:12:16] > Using SHA1 encryption
+[27/3/2020 14:12:16] >> Loading RSA key
+[27/3/2020 14:12:16] >> Starting SQL connection
+[27/3/2020 14:12:16] >> Running Database Manager
+[27/3/2020 14:12:16] > Optimized database.
+[27/3/2020 14:12:16] >> Loading items (OTB)
+[27/3/2020 14:12:17] >> Loading items (XML)
+[27/3/2020 14:12:17] [Warning - Items::loadFromXml] Unknown shootType feet
+[27/3/2020 14:12:17] >> Loading groups
+[27/3/2020 14:12:17] >> Loading vocations
+[27/3/2020 14:12:17] >> Loading outfits
+[27/3/2020 14:12:17] >> Loading chat channels
+[27/3/2020 14:12:17] >> Loading script systems
+[27/3/2020 14:12:17] >> Loading mods...
+[27/3/2020 14:12:17] > Loading AutoLoot.xml... done.
+[27/3/2020 14:12:17] > Loading buypremium_command.xml... done.
+[27/3/2020 14:12:17] > Loading customspells.xml... done.
+[27/3/2020 14:12:17] > Loading highscorebook.xml... done.
+[27/3/2020 14:12:17] > Loading Run Event.xml... done.
+[27/3/2020 14:12:17] > Loading Simple Task.xml... done.
+[27/3/2020 14:12:17] > 6 mods were loaded.
+[27/3/2020 14:12:17] >> Loading experience stages
+[27/3/2020 14:12:17] >> Loading monsters
+[27/3/2020 14:12:17] >> Loading map and spawns...
+[27/3/2020 14:12:17] > Map size: 2048x2048.
+[27/3/2020 14:12:17] > Map descriptions: 
+[27/3/2020 14:12:17] "Saved with Remere's Map Editor 3.5"
+[27/3/2020 14:12:17] "No map description available."
+[27/3/2020 14:12:18] > Map loading time: 1.144 seconds.
+[27/3/2020 14:12:18] > Data parsing time: 0.021 seconds.
+[27/3/2020 14:12:30] > Houses synchronization time: 11.484 seconds.
+[27/3/2020 14:12:31] > Content unserialization time: 1.486 seconds.
+[27/3/2020 14:12:31] >> Checking world type... Open PvP
+[27/3/2020 14:12:31] >> Initializing game state and binding services...
+
+[27/3/2020 14:12:31] [Error - GlobalEvent Interface] 
+[27/3/2020 14:12:31] data/globalevents/scripts/init.lua:onStartup
+[27/3/2020 14:12:31] Description: 
+[27/3/2020 14:12:31] data/globalevents/scripts/init.lua:78: attempt to call field 'executeQuery' (a nil value)
+[27/3/2020 14:12:31] stack traceback:
+[27/3/2020 14:12:31] 	data/globalevents/scripts/init.lua:78: in function <data/globalevents/scripts/init.lua:8>
+[27/3/2020 14:12:31] > Global IP address: 127.0.0.1
+[27/3/2020 14:12:31] > Local IP address(es): 192.168.30.8	
+[27/3/2020 14:12:31] > Bound ports: 7171	7172	
+[27/3/2020 14:12:31] >> Everything smells good, server is starting up...
+[27/3/2020 14:12:31] >> DBOnline server Online!
+
+[27/3/2020 14:13:18] Santa Inquisicao has logged in.
+[27/3/2020 14:20:15] Santa Inquisicao has logged out.
+[27/3/2020 14:20:15] Santa Inquisicao has logged in.
+[27/3/2020 14:20:17] Santa Inquisicao has logged out.
+[27/3/2020 14:20:21] Santa Inquisicao has logged in.
+[27/3/2020 14:21:39] Santa Inquisicao has logged out.
+[27/3/2020 14:21:40] Galileu has logged in.
+
+[27/3/2020 14:22:13] [Error - GlobalEvent Interface] 
+[27/3/2020 14:22:13] data/globalevents/scripts/record.lua:onRecord
+[27/3/2020 14:22:13] Description: 
+[27/3/2020 14:22:13] data/globalevents/scripts/record.lua:2: attempt to call field 'executeQuery' (a nil value)
+[27/3/2020 14:22:13] stack traceback:
+[27/3/2020 14:22:13] 	data/globalevents/scripts/record.lua:2: in function <data/globalevents/scripts/record.lua:1>
+[27/3/2020 14:22:13] Santa Inquisicao has logged in.
+[27/3/2020 14:23:6] Galileu has logged out.
+[27/3/2020 14:23:10] Galileu has logged in.
+[27/3/2020 14:28:39] Galileu has logged out.
+[27/3/2020 14:29:17] > Saving server...
+[27/3/2020 14:29:18] > SAVE: Complete in 1.578 seconds using relational house storage.
+[27/3/2020 14:30:29] Santa Inquisicao has logged out.

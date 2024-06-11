@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Afonso" script="default.lua" walkinterval="2000">
+	<health now="100" max="100" />
+	<look type="941" head="0" body="79" legs="114" feet="76" addons="3"/>
+	<parameters>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I sell backpacks. Say {trade}."/>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="
+			shinigami bag,1987,10000;
+			backpack,1988,10000;
+			santa claus backpack,1989,10000;
+			war backpack,1990,10000;
+			ladybug backpack,1991,10000;
+			crystal backpack,1992,10000;
+			worm backpack,1993,10000;
+			cake backpack,1994,10000;
+			electro backpack,1995,10000;
+			book backpack,1996,10000;
+			grey capsule,1997,10000;
+			little bag,1998,10000;
+			red capsule,1999,10000;
+			blue capsule,2000,10000;
+			red schoolbag,2001,10000;
+			big schoolbag,2002,10000;
+			grey malet,2003,10000;
+			digital bag,2004,10000;
+			backpack of holding,2365,10000;
+			green capsule,3939,10000;
+			camouflage backpack,3940,10000;
+			dragon ball backpack,7737,10000;
+			mushroom backpack,7738,10000;
+			leaf backpack,7739,10000;
+			precious jewels backpack,5801,10000;
+			pirate backpack,5926,10000;
+			pox backpack,5927,10000;
+			beach backpack,5949,10000;
+			dentura backpack,5950,10000;
+			fur backpack,7342,10000;
+			medicine backpack,12683,10000;
+			brocade backpack,9774,10000;
+			brocade bag,9775,10000;
+			demon backpack,9775,10000;
+			orange backpack,10519,10000;
+			orange bag,10520,10000;
+			moon backpack,10521,10000;
+			crown backpack,10522,10000;
+			hearth backpack,11119,10000;
+			hobbit backpack,11241,10000;
+			hobbit bag,11242,10000;
+			china backpack,11243,10000;
+			minotaur backpack,11244,10000;
+			christmas backpack,11263,10000;
+			colorful backpack,13934,10000;
+			hermes backpack,14056,10000;
+			skull backpack,14101,10000
+			"/>
+	</parameters>
+</npc>

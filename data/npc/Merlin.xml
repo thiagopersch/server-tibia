@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Merlin" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="987"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I buy boots. Say {trade}."/>
+		<parameter key="shop_sellable" value="
+			human boots,9812,25000;
+			cell boots,9813,250000;
+			saiyan boots,9929,50000;
+			ice barbarian boots,2195,500000;
+			boots of haste,6530,250000;
+			mystic boots,6132,100000;
+			silver boots,2358,30000;
+			bardock boots,2640,50000;
+			janemba boots,2641,80000;
+			brolly boots,2642,80000;
+			majin boots,2643,50000;
+			c17 boots,2644,50000;
+			goku boots,2645,50000;
+			super goku boots,2646,100000;
+			zamasu boots,3982,100000;
+			ssj5 boots,5462,100000;
+			fur boots,7457,50000;
+			strange boots,7886,150000;
+			bills boots,7891,100000;
+			golden freeza boots,7892,120000;
+			lightning boots,7893,100000;
+			legendary boots,9817,50000;
+			cabba boots,9818,100000;
+			basic boots,9819,70000;
+			hibiscus boots,9930,100000;
+			freeza boots,9931,50000;
+			black janemba boots,9932,250000;
+			golden boots,9933,190000;
+			hell shenlong boots,13696,220000;
+			shenlong boots,13695,200000;
+			black shenlong boots,13697,250000;
+			soldier satanic boots,13691,270000;
+			enchanted zangetsu boots,13721,250000;
+			supreme infernal's shenlong boots,13727,300000;
+			fullbring boots,13731,300000;
+			angel boots,13735,300000;
+			pair of soulwalkers,14261,350000;
+			pair of soulstalkers,14262,350000
+		"/>
+	</parameters>
+</npc>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weapons>
+	<!-- Magics -->
+	<wand id="2401" event="script" value="big mace.lua"/>
+	<wand id="2439" event="script" value="blaster.lua"/>
+	<wand id="2190" event="script" value="bow ice.lua"/>
+	<wand id="2187" event="script" value="bow of inferno.lua"/>
+	<wand id="2423" event="script" value="clerical mace.lua"/>
+	<wand id="2186" event="script" value="crossbow of inferno.lua"/>
+	<wand id="2185" event="script" value="crossbow supreme.lua"/>
+	<wand id="2433" event="script" value="enchanted staff.lua"/>
+	<wand id="2436" event="script" value="energy gun.lua"/>
+	<wand id="2445" event="script" value="energy ki.lua"/>
+	<wand id="2434" event="script" value="green gun.lua"/>
+	<wand id="2188" event="script" value="ice barbarian bow.lua"/>
+	<wand id="8910" event="script" value="ice rod.lua"/>
+	<wand id="2398" event="script" value="mace.lua"/>
+	<wand id="2424" event="script" value="metralhadora.lua"/>
+	<wand id="2394" event="script" value="morning star.lua"/>
+	<wand id="8911" event="script" value="northwind rod.lua"/>
+	<wand id="8932" event="script" value="pistol.lua"/>
+	<wand id="2444" event="script" value="red ki.lua"/>
+	<wand id="2422" event="script" value="rifle.lua"/>
+	<wand id="2448" event="script" value="studded ki.lua"/>
+	<wand id="2189" event="script" value="supreme bow.lua"/>
+	<wand id="8921" event="script" value="supreme demonic wand.lua"/>
+	<wand id="7958" event="script" value="supreme vortex.lua"/>
+	<wand id="2191" event="script" value="wand of dragonbreath.lua"/>
+	<wand id="2391" event="script" value="war pistol.lua"/>
+	<wand id="13705" event="script" value="infernal's bow.lua"/>
+	<wand id="13714" event="script" value="angel wand.lua"/>
+	<wand id="13715" event="script" value="angel bow.lua"/>
+	<wand id="14249" event="script" value="soulmaimer.lua"/>
+	<wand id="14250" event="script" value="soulbleeder.lua"/>
+	<wand id="14251" event="script" value="soulpiercer.lua"/>
+	
+	<wand id="14252" event="script" value="soultainter.lua"/>
+	<wand id="14253" event="script" value="soulhexer.lua"/>
+
+
+	<!-- Todos -->
+	<melee id="2376" unproperly="1" event="function" value="default"></melee>
+	<melee id="2377" unproperly="1" event="function" value="default"></melee>
+	<melee id="2379" unproperly="1" event="function" value="default"></melee>
+	<melee id="2383" unproperly="1" event="function" value="default"></melee>
+	<melee id="2384" unproperly="1" event="function" value="default"></melee>
+	<melee id="2385" unproperly="1" event="function" value="default"></melee>
+	<melee id="2390" unproperly="1" event="function" value="default"></melee>
+	<melee id="2392" unproperly="1" event="function" value="default"></melee>
+	<melee id="2393" unproperly="1" event="function" value="default"></melee>
+	<melee id="2395" unproperly="1" event="function" value="default"></melee>
+	<melee id="2396" unproperly="1" event="function" value="default"></melee>
+	<melee id="2397" unproperly="1" event="function" value="default"></melee>
+	<melee id="2400" unproperly="1" event="function" value="default"></melee>
+	<melee id="2402" unproperly="1" event="function" value="default"></melee>
+	<melee id="2403" unproperly="1" event="function" value="default"></melee>
+	<melee id="2404" unproperly="1" event="function" value="default"></melee>
+	<melee id="2405" unproperly="1" event="function" value="default"></melee>
+	<melee id="2406" unproperly="1" event="function" value="default"></melee>
+	<melee id="2407" unproperly="1" event="function" value="default"></melee>
+	<melee id="2408" unproperly="1" event="function" value="default"></melee>
+	<melee id="2409" unproperly="1" event="function" value="default"></melee>
+	<melee id="2411" unproperly="1" event="function" value="default"></melee>
+	<melee id="2412" unproperly="1" event="function" value="default"></melee>
+	<melee id="2413" unproperly="1" event="function" value="default"></melee>
+	<melee id="2418" unproperly="1" event="function" value="default"></melee>
+	<melee id="2419" unproperly="1" event="function" value="default"></melee>
+	<melee id="2420" unproperly="1" event="function" value="default"></melee>
+	<melee id="2442" unproperly="1" event="function" value="default"></melee>
+	<melee id="2438" unproperly="1" event="function" value="default"></melee>
+	<melee id="2446" unproperly="1" event="function" value="default"></melee>
+	<melee id="2450" unproperly="1" event="function" value="default"></melee>
+	<melee id="2451" unproperly="1" event="function" value="default"></melee>
+	<melee id="6528" unproperly="1" event="function" value="default"></melee>
+	<melee id="7382" unproperly="1" event="function" value="default"></melee>
+	<melee id="7383" unproperly="1" event="function" value="default"></melee>
+	<melee id="7420" unproperly="1" event="function" value="default"></melee>
+	<melee id="7384" unproperly="1" event="function" value="default"></melee>
+	<melee id="7449" unproperly="1" event="function" value="default"></melee>
+	<melee id="7385" unproperly="1" event="function" value="default"></melee>
+	<melee id="7959" unproperly="1" event="function" value="default"></melee>
+	<melee id="7386" unproperly="1" event="function" value="default"></melee>
+	<melee id="5908" unproperly="1" event="function" value="default"></melee>
+	<melee id="7390" unproperly="1" event="function" value="default"></melee>
+	<melee id="2350" unproperly="1" event="function" value="default"></melee>
+	<melee id="7391" unproperly="1" event="function" value="default"></melee>
+	<melee id="2351" unproperly="1" event="function" value="default"></melee>
+	<melee id="7402" unproperly="1" event="function" value="default"></melee>
+	<melee id="8602" unproperly="1" event="function" value="default"></melee>
+	<melee id="7403" unproperly="1" event="function" value="default"></melee>
+	<melee id="8930" unproperly="1" event="function" value="default"></melee>
+	<melee id="7404" unproperly="1" event="function" value="default"></melee>
+	<melee id="7405" unproperly="1" event="function" value="default"></melee>
+	<melee id="7406" unproperly="1" event="function" value="default"></melee>
+	<melee id="7407" unproperly="1" event="function" value="default"></melee>
+	<melee id="7408" unproperly="1" event="function" value="default"></melee>
+	<melee id="7416" unproperly="1" event="function" value="default"></melee>
+	<melee id="7417" unproperly="1" event="function" value="default"></melee>
+	<melee id="7418" unproperly="1" event="function" value="default"></melee>
+	<melee id="7419" unproperly="1" event="function" value="default"></melee>
+	<melee id="8931" unproperly="1" event="function" value="default"></melee>
+	<melee id="2382" unproperly="1" event="function" value="default"></melee>
+	<melee id="8912" unproperly="1" event="function" value="default"></melee>
+	<melee id="8920" unproperly="1" event="function" value="default"></melee>
+	<melee id="13698" unproperly="1" event="function" value="default"></melee>
+	<melee id="13699" unproperly="1" event="function" value="default"></melee>
+	<melee id="13700" unproperly="1" event="function" value="default"></melee>
+	<melee id="13701" unproperly="1" event="function" value="default"></melee>
+	<melee id="13703" unproperly="1" event="function" value="default"></melee>
+	<melee id="13704" unproperly="1" event="function" value="default"></melee>
+	<melee id="13706" unproperly="1" event="function" value="default"></melee>
+	<melee id="13707" unproperly="1" event="function" value="default"></melee>
+	<melee id="13708" unproperly="1" event="function" value="default"></melee>
+	<melee id="13709" unproperly="1" event="function" value="default"></melee>
+	<melee id="13710" unproperly="1" event="function" value="default"></melee>
+	<melee id="13711" unproperly="1" event="function" value="default"></melee>
+	<melee id="13712" unproperly="1" event="function" value="default"></melee>
+	<melee id="13713" unproperly="1" event="function" value="default"></melee>
+	<melee id="13716" unproperly="1" event="function" value="default"></melee>
+	<melee id="13717" unproperly="1" event="function" value="default"></melee>
+	<melee id="14245" unproperly="1" event="function" value="default"></melee>
+	<melee id="14246" unproperly="1" event="function" value="default"></melee>
+	<melee id="14247" unproperly="1" event="function" value="default"></melee>
+	<melee id="14248" unproperly="1" event="function" value="default"></melee>
+
+</weapons>

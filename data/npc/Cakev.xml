@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Cakev" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="1169"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I buy shields. Say {trade}."/>
+		<parameter key="shop_sellable" value="
+			supreme infernal's shenlong shield,13702,100000;
+			shenlong shield,13718,80000;
+			soulbastion,14263,300000;
+			ice barbarian shield,2509,100000;
+			supreme shield,2510,100000;
+			master shield,2511,100000;
+			wooden shield,2512,50000;
+			battle shield,2513,90000;
+			mastermind shield,2514,110000;
+			pox shield,2515,80000;
+			dragon shield,2516,85000;
+			shield of honour,2517,95000;
+			beholder shield,2518,11000;
+			crown shield,2519,11500;
+			turtle shield,2520,12000;
+			hibiscus shield,2521,15000;
+			great shield,2522,13000;
+			blessed shield,2523,14000;
+			ornamented shield,2524,17000
+		"/>
+	</parameters>
+</npc>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hawk" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="1042"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I sell foods. Say {trade}."/>
+		<parameter key="shop_buyable" value="
+			meat,2666,10000;
+			health potion,2670,10000;
+			reiatsu potion,2671,10000;
+			fish,2667,10000;
+			salmon,2668,10000;
+			northern pike,2669,10000;
+			coconut,2678,10000;
+			cherry,2679,10000;
+			strawberry,2680,10000;
+			grapes,2681,10000;
+			melon,2682,10000;
+			pumpkin,2683,10000;
+			carrot,2684,10000;
+			tomato,2685,10000;
+			corncob,2686,10000;
+			cookie,2687,10000;
+			candy cane,2688,10000;
+			bread,2689,10000;
+			roll,2690,10000;
+			brown bread,2691,10000;
+			flour,2692,10000;
+			lump of dough,2693,10000;
+			bunch of wheat,2694,10000;
+			egg,2695,10000;
+			cheese,2696,10000;
+			white mushroom,2787,10000;
+			red mushroom,2788,10000;
+			brown mushroom,2789,10000;
+			orange mushroom,2790,10000;
+			wood mushroom,2791,10000;
+			dark mushroom,2792,10000;
+			mushrooms,2793,10000;
+			mushrooms,2794,10000;
+			fire mushrooms,2795,10000;
+			green mushrooms,2796,10000;
+			valentine's cake,6393,10000;
+			cream cake,6394,10000;
+			coloured egg,6541,10000;
+			coloured egg,6542,10000;
+			coloured egg,6543,10000;
+			coloured egg,6544,10000;
+			coloured egg,6545,10000;
+			ice cream cone,7372,10000;
+			ice cream cone,7373,10000;
+			ice cream cone,7374,10000;
+			ice cream cone,7375,10000;
+			ice cream cone,7376,10000;
+			ice cream cone,7377,10000;
+			ice cream cone,8208,10000;
+			candy,6569,10000;
+			rainbow trout,7158,10000;
+			green perch,7159,10000;
+			lump of cake dough,6277,10000;
+			cake,6278,10000;
+			decorated cake,6279,10000;
+			party cake,6280,10000;
+			walnut,7909,10000;
+			peanut,7910,10000;
+			birthday cake,8194,10000;
+			mango,5097,10000;
+			bar of chocolate,6574,10000;
+			potato,8838,10000;
+			plum,8839,10000;
+			raspberry,8840,10000;
+			lemon,8841,10000;
+			cucumber,8842,10000;
+			onion,8843,10000;
+			jalapeno pepper,8844,10000;
+			beetroot,8845,10000;
+			lump of chocolate dough,8846,10000;
+			chocolate cake,8847,10000
+		"/>
+	</parameters>
+</npc>

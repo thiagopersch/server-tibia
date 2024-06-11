@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Samanta" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="1183" head="114" body="94" legs="114" feet="79" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I buy armors. Say {trade}."/>
+		<parameter key="shop_sellable" value="
+			supreme armor,2463,250000;
+			ice barbarian armor,2464,150000;
+			pluff armor,2465,100000;
+			zangetsu armor,2466,50000;
+			leather armor,2467,50000;
+			magma armor,2472,30000;
+			cefir armor,2476,30000;
+			majin armor,2483,25000;
+			studded armor,2484,200000;
+			mystic armor,2485,150000;
+			kid goku armor,2486,8000;
+			bardock armor,2487,10000;
+			future trunks armor,2489,15000;
+			human body,2492,10000;
+			demon armor,2494,100000;
+			human coat,2500,10000;
+			elven armor,2505,10000;
+			gohan coat,2508,50000;
+			piccolo armor,4847,50000;
+			raditz armor,2650,50000;
+			saiyan armor,2651,50000;
+			c18 armor,2652,25000;
+			purple tunic,2653,30000;
+			c17 armor,2654,25000;
+			c16 armor,2655,25000;
+			demonic armor,2656,150000;
+			waistcoat saiyajin,2657,15000;
+			piccolo cap,2658,50000;
+			janemba armor,2659,150000;
+			goku armor,2660,70000;
+			tsuful armor,2664,30000;
+			super c18 armor,3968,150000;
+			kaio armor,6095,50000;
+			vegetto armor,7463,200000;
+			fusion armor,7884,100000;
+			cell armor,7897,100000;
+			lightning robe,7898,50000;
+			ss5 armor,7899,100000;
+			hell shenlong armor,13684,150000;
+			black shenlong armor,13683,150000;
+			soldier satanic armor,13689,200000;
+			enchanted zangetsu armor,13719,180000;
+			supreme infernal's shenlong armor,13725,180000;
+			fullbring armor,13729,220000;
+			angel armor,13733,250000;
+			strange armor,8865,100000;
+			bills armor,8866,150000;
+			golden freeza armor,8867,200000;
+			hitto armor,8868,200000;
+			legendary armor,8869,200000;
+			cabba armor,8870,200000;
+			super goku armor,8871,200000;
+			zamasu armor,8871,200000;
+			hibiscus armor,8873,300000;
+			freeza armor,8874,100000;
+			black janemba armor,8875,100000;
+			golden armor,8876,50000
+			soulhell,14258,200000;
+			soulmantle,14259,200000;
+			soulshroud,14260,200000
+		"/>
+	</parameters>
+</npc>

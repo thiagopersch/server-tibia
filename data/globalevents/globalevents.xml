@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<globalevent name="invasion" interval="600000" event="script" value="invasion.lua"/>
+	<globalevent name="prop" interval="120000" event="script" value="Propaganda.lua"/>
+	<globalevent name="lottery" interval="7200000" event="script" value="lottery.lua"/>
+	<globalevent name="broadcastMessage" interval="300000" script="broadcastMessage.lua" />
+	<globalevent name="textoTeleport" interval="1000" script="textoTeleport.lua" />
+	<globalevent name="playereffect" interval="500" script="playerEffect.lua" />
+	<globalevent name="save" interval="600000" event="script" value="save.lua"/>
+	<globalevent name="clean" interval="600000" event="script" value="clean.lua"/>
+	<globalevent name="record" type="record" event="script" value="record.lua"/>
+</globalevents>

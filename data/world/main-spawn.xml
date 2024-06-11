@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="32071" centery="31936" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31937" centery="31937" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31983" centery="31938" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31953" centery="31941" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32016" centery="31943" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32036" centery="31945" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31965" centery="31947" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31995" centery="31951" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31921" centery="31954" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31959" centery="31957" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32009" centery="31958" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32054" centery="31958" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32022" centery="31961" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31949" centery="31964" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31937" centery="31966" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31972" centery="31966" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31921" centery="31968" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31997" centery="31969" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32054" centery="31969" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31961" centery="31971" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31987" centery="31976" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31954" centery="31977" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32048" centery="31986" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31932" centery="31987" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32035" centery="31987" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31962" centery="31989" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="-1" z="7" spawntime="60" direction="2" />
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32055" centery="31994" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32069" centery="31995" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31919" centery="31996" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31937" centery="31996" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31958" centery="31996" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32040" centery="32000" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31930" centery="32007" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31954" centery="32007" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32051" centery="32008" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32072" centery="32010" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32027" centery="32012" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31925" centery="32015" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31936" centery="32016" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31958" centery="32022" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31929" centery="32023" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32024" centery="32023" centerz="7" radius="1">
+		<monster name="Bandit Swordman" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32017" centery="32024" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31945" centery="32025" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32035" centery="32028" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31983" centery="32029" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32069" centery="32029" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31989" centery="32030" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31922" centery="32032" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31969" centery="32035" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31981" centery="32039" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32005" centery="32041" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32047" centery="32042" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31994" centery="32044" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32021" centery="32047" centerz="7" radius="1">
+		<monster name="Android" x="-1" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31965" centery="32052" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32029" centery="32053" centerz="7" radius="1">
+		<monster name="Android" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32021" centery="32054" centerz="7" radius="1">
+		<monster name="Android" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31985" centery="32055" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31920" centery="32056" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31981" centery="32056" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32070" centery="32064" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31954" centery="32065" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31971" centery="32065" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32033" centery="32066" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32003" centery="32067" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31980" centery="32073" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32005" centery="32073" centerz="7" radius="1">
+		<monster name="Bandit" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31922" centery="32074" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="31942" centery="32074" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32027" centery="32074" centerz="7" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+</spawns>

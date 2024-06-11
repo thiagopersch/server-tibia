@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<npc name="Detones" script="data/npc/scripts/simple_task.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="941" head="114" body="76" legs="116" feet="132" addons="3"/>
+	<parameters>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|!, Do you want to do a {task}, {daily} ou {deliver}? In case you have already completed a task and give it to me, you will receive prizes in return!" />
+	</parameters>
+</npc>

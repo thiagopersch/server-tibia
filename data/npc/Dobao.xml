@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Dobao" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="690"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I buy swords. Say {trade}."/>
+		<parameter key="shop_sellable" value="
+			goku staff,2418,20000;
+			getsuga sword,2376,30000;
+			enchanted getsuga sword,2377,40000;
+			zangetsu sword,2379,45000;
+			enchanted getsuga tenshou,2382,50000;
+			getsuga tenshou,2383,55000;
+			el brazo izquierda,2384,40000;
+			escalibur,2385,50000;
+			bamboo sword,2390,10000;
+			dagger,2392,15000;
+			giant sword,2393,18000;
+			carlin sword,2395,18000;
+			long red sword,2396,20000;
+			janemba sword,2397,21000;
+			magic sword,2400,22000;
+			silver sword,2402,23000;
+			sword,2403,9000;
+			combat sword,2404,24000;
+			bright sword,2405,25000;
+			short sword,2406,26000;
+			enchanted janemba sword,2407,27000;
+			fire sword,2408,28000;
+			serpent sword,2409,29000;
+			water sword,2411,30000;
+			gigant sword,2412,31000;
+			demonic sword,2413,32000;
+			scimitar sword,2419,34000;
+			scornful sword,2420,35000;
+			heavy sword,2442,36000;
+			demonic sword,2438,37000;
+			pharaoh sword,2446,38000;
+			bone sword,2450,39000;
+			djinn sword,2451,20000;
+			avenger,6528,60000;
+			demonrage sword,7382,60000;
+			supreme sword,8912,100000;
+			shenlong sword,13698,150000;
+			king infernal sword,13700,140000;
+			supreme infernal`s shenlong sword,13701,140000;
+			angel sword,13703,160000;
+			infernal`s sword,13704,170000;
+			enchanted infernal`s sword,13707,180000;
+			enchanted black infernal`s sword,13712,190000;
+			enchanted king infernal sword,13713,200000;
+			hyorinmaru sword,2378,85000;
+			katen sword,2380,90000;
+			zabimaru,2381,20000;
+			soulcutter,14245,200000;
+			soulshredder,14246,200000
+		"/>
+	</parameters>
+</npc>

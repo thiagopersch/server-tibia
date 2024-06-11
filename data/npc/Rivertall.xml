@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Rivertall" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="903"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I buy gloves. Say {trade}."/>
+		<parameter key="shop_sellable" value="
+			shinigami glove,7383,50000;
+			human glove,7384,10000;
+			demonic glove,7386,30000;
+			silver glove,7390,35000;
+			army glove,7391,40000;
+			dragon slayer glove,7402,50000;
+			saiyajin glove,7403,40000;
+			assassin glove,7404,45000;
+			havoc glove,7405,55000;
+			backsteel glove,7406,55000;
+			enchanted silver glove,7407,70000;
+			metal red glove,7408,80000;
+			golden glove,7416,120000;
+			metal glove,7417,100000;
+			nightmare glove,7418,100000;
+			dreaded glove,7419,110000;
+			reaper's glove,7420,120000;
+			wolf glove,7449,130000;
+			flanz glove,7959,140000;
+			simpson glove,8209,10000;
+			golden metal,5908,100000;
+			golden freeza glove,2350,150000;
+			hitto glove,2351,150000;
+			enchanted demonic glove,8602,140000;
+			kinght glove,8930,130000;
+			shenlong glove,13699,150000;
+			golden fist,8931,130000
+		"/>
+	</parameters>
+</npc>

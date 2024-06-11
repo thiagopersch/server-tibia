@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Crustacea Gigantica" nameDescription="a crustacea gigantica" race="blood" experience="1800" speed="240">
+	<health now="1600" max="1600"/>
+	<look type="383" head="0" body="0" legs="0" feet="0" addons="0" typeex="0" corpse="13328"/>
+	<targetchange interval="5000" chance="8"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag hidename="0"/>
+		<flag hidehealth="0"/>
+		<flag lightlevel="0"/>
+		<flag lightcolor="0"/>
+		<flag lootmessage="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag lureable="0"/>
+		<flag walkable="0"/>
+		<flag skull="0"/>
+		<flag shield="0"/>
+		<flag emblem="0"/>
+		<flag canwalkonenergy="1"/>
+		<flag canwalkonfire="1"/>
+		<flag canwalkonpoison="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" chance="100" min="-200" max="-600" effect="CONST_ME_DRAWBLOOD"/>
+	</attacks>
+	<immunities>
+		<immunity type="paralyze" condition="true"/>
+		<immunity type="outfit" condition="false"/>
+		<immunity type="invisible" condition="true"/>
+		<immunity type="bleed" condition="false"/>
+	</immunities>
+	<defenses armor="40" defense="45">
+		<defense name="physical" interval="2000" chance="15" speedchange="450" duration="5000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="20"/>
+		<element firePercent="0"/>
+		<element energyPercent="-5"/>
+		<element icePercent="100"/>
+		<element poisonPercent="0"/>
+		<element holyPercent="0"/>
+		<element deathPercent="10"/>
+		<element drownPercent="0"/>
+		<element earthPercent="70"/>
+		<element lifeDrainPercent="0"/>
+		<element manaDrainPercent="10"/>
+		<element healingPercent="0"/>
+		<element undefinedPercent="0"/>
+	</elements>
+	<voices interval="5000" chance="10">
+		<voice sentence="Chrchrchr" yell="false"/>
+		<voice sentence="Klonklonk" yell="false"/>
+		<voice sentence="Chrrrrr" yell="false"/>
+		<voice sentence="Crunch crunch" yell="false"/>
+	</voices>
+	<loot>
+		<item name="gold coin" chance="96000" maxCount="100"/>
+		<item name="gold coin" chance="56000" maxCount="75"/>
+		<item name="strong mana potion" chance="8885"/>
+		<item name="strong health potion" chance="3880"/>
+		<item id="3098" chance="3000"/>
+		<item name="great mana potion" chance="1220"/>
+		<item name="giant crab pincer" chance="5000" maxCount="2"/>
+	</loot>
+</monster>

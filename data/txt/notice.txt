@@ -1,0 +1,36 @@
+            *** Novidades ***
+-------------------------------------------------
+
+XP: 999x
+
+!reset para dar reset
+
+Servidor sem limite de level
+
+------------ Guilds ------------
+!createguild Name
+!joinguild Name
+!invite Nick
+!kick Nick
+!promote Nick
+!demote Nick
+!guild
+!disband
+/bguild
+/war invite, GuildName, QtdFrags
+/war invite, GuildName, QtdFrags, Money
+/war accept, GuildName
+/war reject, GuildName
+/war cancel, GuildName
+
+------------ Bank ------------
+/balance
+/balance donate QtdMoney
+/balance pick QtdMoney 
+-----------------------------
+Digite /commands para ver todos seus comandos.
+-----------------------------
+Digite !report para reportar algum bug.
+-----------------------------
+Digite "tecnicas" ou "!tecnicas" para ver suas magias.
+----------------------------------

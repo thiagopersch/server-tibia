@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocations>
+<!-- Exemplo -->
+	<vocation id="0" name="None" description="none" needpremium="0" gaincap="5" gainhp="5" gainmana="5" gainhpticks="6" gainhpamount="1" gainmanaticks="6" gainmanaamount="1" manamultiplier="4.0" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="0" attackable="no">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+
+<!-- Vocations DBZ -->
+	<vocation id="1" name="Bardock" description="Bardock" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="1">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="2" name="Bills" description="Bills" needpremium="0" gaincap="500" gainhp="25" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="2">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="3" name="Botamo" description="Botamo" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="3">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="4" name="Brolly" description="Brolly" needpremium="0" gaincap="500" gainhp="20" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="4">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="5" name="Bulma" description="Bulma" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="5">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="6" name="Buu" description="Buu" needpremium="0" gaincap="500" gainhp="25" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="6">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="7" name="C8" description="C8" needpremium="0" gaincap="500" gainhp="20" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="7">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="8" name="C17" description="C17" needpremium="0" gaincap="500" gainhp="20" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="8">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="9" name="C18" description="C18" needpremium="0" gaincap="500" gainhp="20" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="9">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="10" name="Cabba" description="Cabba" needpremium="0" gaincap="500" gainhp="25" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="10">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="11" name="Cell" description="Cell" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="11">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="12" name="Cooler" description="Cooler" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="12">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="13" name="Dende" description="Dende" needpremium="0" gaincap="500" gainhp="20" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="13">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="14" name="Freeza" description="Freeza" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="14">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="15" name="Ginn" description="Ginn" needpremium="0" gaincap="500" gainhp="25" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="15">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="16" name="Gohan" description="Gohan" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="16">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="17" name="Goku" description="Goku" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="17">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="18" name="Goku Black" description="Goku Black" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="18">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="19" name="Hitto" description="Hitto" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="19">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="20" name="Janemba" description="Janemba" needpremium="0" gaincap="500" gainhp="10" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="20">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="21" name="Jiren" description="Jiren" needpremium="0" gaincap="500" gainhp="25" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="21">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="22" name="Kagome" description="Kagome" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="22">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="23" name="Kaio" description="Kaio" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="23">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="24" name="Kame" description="Kame" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="24">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="25" name="King Cold" description="King Cold" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="25">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="26" name="King Vegeta" description="King Vegeta" needpremium="0" gaincap="500" gainhp="15" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="26">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="27" name="Kuririn" description="Kuririn" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="27">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="28" name="Liquir" description="Liquir" needpremium="0" gaincap="500" gainhp="25" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="28">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="29" name="Pan" description="Pan" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="29">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="30" name="Piccolo" description="Piccolo" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="30">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="31" name="Quitela" description="Quitela" needpremium="0" gaincap="500" gainhp="25" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="31">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="32" name="Raditz" description="Raditz" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="32">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="33" name="Shenron" description="Shenron" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="33">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="34" name="Tapion" description="Tapion" needpremium="0" gaincap="500" gainhp="25" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="34">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="35" name="Trunks" description="Trunks" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="35">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="36" name="Tsuful" description="Tsuful" needpremium="0" gaincap="500" gainhp="10" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="36">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="37" name="Turles" description="Turles" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="37">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="38" name="Uub" description="Uub" needpremium="0" gaincap="500" gainhp="20" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="38">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="39" name="Vados" description="Vados" needpremium="0" gaincap="500" gainhp="25" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="39">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="40" name="Vegeta" description="Vegeta" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="40">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="41" name="Vegetto" description="Vegetto" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="41">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="42" name="Vermouth" description="Vermouth" needpremium="0" gaincap="500" gainhp="25" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="42">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="43" name="Videl" description="Videl" needpremium="0" gaincap="500" gainhp="15" gainmana="20" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="43">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="44" name="Zaiko" description="Zaiko" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="44">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="45" name="Zeno" description="Zeno" needpremium="0" gaincap="500" gainhp="30" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="45">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+
+<!-- Vocations Bleach -->	
+	<vocation id="47" name="Aizen" description="Aizen" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="47">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="48" name="Byakuya" description="Byakuya" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="48">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="49" name="Gin" description="Gin" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="49">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="50" name="Grimmjow" description="Grimmjow" needpremium="0" gaincap="500" gainhp="20" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="50">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="51" name="Hitsugaya" description="Hitsugaya" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="51">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="52" name="Ichigo FullBring" description="Ichigo FullBring" needpremium="0" gaincap="500" gainhp="25" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="52">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="53" name="Ichigo" description="Ichigo" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="53">
+		<formula meleeDamage="5.0" distDamage="1.0" wandDamage="1.0" magDamage="0.8" magHealingDamage="0.5" defense="1.0" magDefense="1.0" armor="1.0"/>
+		<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.0" experience="1.0"/>
+	</vocation>
+	<vocation id="54" name="Ishida" description="Ishida" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="54">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="55" name="Kyouraku" description="Kyouraku" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="55">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="56" name="Neliel" description="Neliel" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="56">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="57" name="Orihime" description="Orihime" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="57">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="58" name="Renji" description="Renji" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="58">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="59" name="Rukia" description="Rukia" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="59">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="60" name="Sado" description="Sado" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="60">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="61" name="Shinji" description="Shinji" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="61">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="62" name="Soi Fong" description="Soi Fong" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="62">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="63" name="Tousen" description="Tousen" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="63">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="64" name="Ulquiorra" description="Ulquiorra" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="64">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="65" name="Urahara" description="Urahara" needpremium="0" gaincap="500" gainhp="20" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="65">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="66" name="Yoruichi" description="Yoruichi" needpremium="0" gaincap="500" gainhp="20" gainmana="25" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="66">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+	<vocation id="67" name="Zaraki" description="Zaraki" needpremium="0" gaincap="500" gainhp="20" gainmana="30" gainhpticks="6" gainhpamount="5" gainmanaticks="3" gainmanaamount="5" manamultiplier="1.1" attackspeed="1000" soulmax="1000" gainsoulticks="120" fromvoc="67">
+		<formula meleeDamage="3.5" distDamage="3.5" wandDamage="3.5" magDamage="3.5" magHealingDamage="3.5" defense="3.5" magDefense="3.5" armor="3.5"/>
+		<skill fist="3.5" club="3.5" sword="3.5" axe="3.5" distance="3.5" shielding="3.5" fishing="3.5" experience="3.5"/>
+	</vocation>
+
+</vocations>

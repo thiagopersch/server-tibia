@@ -1,0 +1,380 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="17537" centery="17491" centerz="7" radius="1">
+		<monster name="Pig" x="-1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="-1" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17539" centery="17492" centerz="7" radius="1">
+		<monster name="Pig" x="0" y="-1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="-1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="-1" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17541" centery="17492" centerz="7" radius="1">
+		<monster name="Pig" x="0" y="-1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17537" centery="17493" centerz="7" radius="1">
+		<monster name="Pig" x="-1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="-1" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17539" centery="17494" centerz="7" radius="1">
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="-1" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17541" centery="17494" centerz="7" radius="1">
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17537" centery="17495" centerz="7" radius="1">
+		<monster name="Pig" x="-1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="-1" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17539" centery="17496" centerz="7" radius="1">
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17541" centery="17496" centerz="7" radius="1">
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17544" centery="17498" centerz="7" radius="1">
+		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="-1" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="0" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17547" centery="17498" centerz="7" radius="1">
+		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="-1" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17542" centery="17499" centerz="7" radius="1">
+		<monster name="Chicken" x="0" y="-1" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="0" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17545" centery="17500" centerz="7" radius="1">
+		<monster name="Chicken" x="-1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="-1" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="1" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17547" centery="17500" centerz="7" radius="1">
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Pig" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17542" centery="17501" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Chicken" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17545" centery="17502" centerz="7" radius="1">
+		<monster name="Pig" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Dino" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17545" centery="17504" centerz="7" radius="1">
+		<monster name="Dino" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17434" centery="17458" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17456" centery="17459" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17443" centery="17460" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17465" centery="17460" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17471" centery="17460" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17479" centery="17460" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17488" centery="17460" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17449" centery="17461" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17494" centery="17461" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17440" centery="17463" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17435" centery="17464" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17468" centery="17464" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17500" centery="17465" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17462" centery="17466" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17454" centery="17468" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17483" centery="17468" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17500" centery="17470" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17437" centery="17471" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17486" centery="17472" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17490" centery="17475" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17437" centery="17476" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17444" centery="17479" centerz="8" radius="1">
+		<monster name="Rat" x="-1" y="0" z="8" spawntime="60" direction="2" />
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17502" centery="17479" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17435" centery="17482" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17443" centery="17485" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17461" centery="17485" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17476" centery="17485" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17498" centery="17485" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17449" centery="17486" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17458" centery="17486" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17504" centery="17486" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17485" centery="17487" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17456" centery="17489" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17528" centery="17489" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17508" centery="17490" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17523" centery="17490" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17498" centery="17491" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17515" centery="17491" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17488" centery="17492" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17502" centery="17495" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17439" centery="17496" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17448" centery="17496" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17455" centery="17496" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17496" centery="17497" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17443" centery="17498" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17458" centery="17499" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17469" centery="17500" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17476" centery="17501" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17502" centery="17502" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17463" centery="17504" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17471" centery="17504" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17492" centery="17504" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17441" centery="17508" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17488" centery="17508" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17502" centery="17508" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17433" centery="17509" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17446" centery="17509" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17456" centery="17509" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17484" centery="17512" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17500" centery="17514" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17477" centery="17515" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17471" centery="17516" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17497" centery="17518" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17431" centery="17519" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17444" centery="17519" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17464" centery="17519" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17454" centery="17520" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17459" centery="17521" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17471" centery="17521" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17485" centery="17521" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17435" centery="17522" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17480" centery="17522" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17448" centery="17523" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17439" centery="17525" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17454" centery="17526" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17474" centery="17526" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17426" centery="17527" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17460" centery="17529" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17419" centery="17532" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17455" centery="17533" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17453" centery="17537" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17420" centery="17539" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17467" centery="17539" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17450" centery="17541" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17468" centery="17541" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17422" centery="17542" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17464" centery="17543" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17417" centery="17544" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17426" centery="17544" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17455" centery="17544" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17459" centery="17545" centerz="8" radius="1">
+		<monster name="Poison Fly" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17471" centery="17546" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17464" centery="17547" centerz="8" radius="1">
+		<monster name="Rat" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+</spawns>

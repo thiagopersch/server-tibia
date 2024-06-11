@@ -1,0 +1,36 @@
+-- Lista De Comandos --
+
+!report
+!notice
+!tecnicas
+!detect
+broodock
+click
+transformar
+kaioken
+fusao
+gogeta
+powerball
+reverter
+separar
+!frags
+!online
+!uptime
+!pvp
+!q
+!serverinfo
+/commands
+!buyhouse
+!sellhouse
+!leavehouse
+alana sio
+aleta grav
+aleta sio
+aleta som
+!createguild
+!joinguild
+/bguild
+!treinando
+!attackguild
+!guild
+!expbonus

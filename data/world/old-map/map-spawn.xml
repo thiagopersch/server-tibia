@@ -1,0 +1,1448 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="17475" centery="17580" centerz="2" radius="1">
+		<monster name="Bat" x="0" y="0" z="2" spawntime="60" direction="2" />
+		<monster name="Vampire" x="1" y="0" z="2" spawntime="60" direction="2" />
+		<monster name="Vampire" x="1" y="1" z="2" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17477" centery="17582" centerz="2" radius="1">
+		<monster name="Vampire" x="-1" y="0" z="2" spawntime="60" direction="2" />
+		<monster name="Bat" x="0" y="0" z="2" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17477" centery="17579" centerz="3" radius="1">
+		<monster name="Vampire" x="-1" y="-1" z="3" spawntime="60" direction="2" />
+		<monster name="Bat" x="0" y="0" z="3" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17477" centery="17581" centerz="3" radius="1">
+		<monster name="Vampire" x="0" y="0" z="3" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17477" centery="17583" centerz="3" radius="1">
+		<monster name="Bat" x="0" y="0" z="3" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17574" centery="17516" centerz="4" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17576" centery="17517" centerz="4" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17580" centery="17517" centerz="4" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17575" centery="17520" centerz="4" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17580" centery="17520" centerz="4" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17578" centery="17522" centerz="4" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17478" centery="17579" centerz="4" radius="1">
+		<monster name="Bat" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17476" centery="17581" centerz="4" radius="1">
+		<monster name="Vampire" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17476" centery="17584" centerz="4" radius="1">
+		<monster name="Bat" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17480" centery="17599" centerz="4" radius="1">
+		<monster name="Tank" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17485" centery="17599" centerz="4" radius="1">
+		<monster name="Crusader" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17487" centery="17601" centerz="4" radius="1">
+		<monster name="Tank" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17482" centery="17604" centerz="4" radius="1">
+		<monster name="Crusader" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17486" centery="17604" centerz="4" radius="1">
+		<monster name="Crusader" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17484" centery="17608" centerz="4" radius="1">
+		<monster name="Tank" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17574" centery="17512" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17579" centery="17512" centerz="5" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17556" centery="17513" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17566" centery="17513" centerz="5" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17562" centery="17514" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17583" centery="17516" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17576" centery="17517" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17571" centery="17518" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17554" centery="17519" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17560" centery="17519" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17577" centery="17519" centerz="5" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17566" centery="17520" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17583" centery="17520" centerz="5" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17553" centery="17522" centerz="5" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17571" centery="17523" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17581" centery="17525" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17577" centery="17527" centerz="5" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17568" centery="17529" centerz="5" radius="1">
+		<monster name="Dinosaur" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17571" centery="17529" centerz="5" radius="1">
+		<monster name="Triceratops" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17516" centery="17545" centerz="5" radius="1">
+		<monster name="Bandit Human" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="17495" centery="17550" centerz="5" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="17486" centery="17551" centerz="5" radius="1">
+		<monster name="Snake" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17505" centery="17552" centerz="5" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="17515" centery="17552" centerz="5" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="17522" centery="17552" centerz="5" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="17526" centery="17552" centerz="5" radius="1">
+		<monster name="Snake" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17497" centery="17553" centerz="5" radius="1">
+		<monster name="Snake" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17482" centery="17554" centerz="5" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="17510" centery="17554" centerz="5" radius="1">
+		<monster name="Snake" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17491" centery="17555" centerz="5" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="17484" centery="17558" centerz="5" radius="1">
+		<monster name="Snake" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17484" centery="17563" centerz="5" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="17494" centery="17563" centerz="5" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17510" centery="17565" centerz="5" radius="1">
+		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17500" centery="17566" centerz="5" radius="1">
+		<monster name="Bandit Swordman" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17514" centery="17567" centerz="5" radius="1">
+		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17495" centery="17568" centerz="5" radius="1">
+		<monster name="Bandit Swordman" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17501" centery="17568" centerz="5" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17508" centery="17568" centerz="5" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17499" centery="17571" centerz="5" radius="1">
+		<monster name="Bandit Swordman" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17513" centery="17571" centerz="5" radius="1">
+		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17493" centery="17572" centerz="5" radius="1">
+		<monster name="Bandit Gun" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17506" centery="17572" centerz="5" radius="1">
+		<monster name="Bandit" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17479" centery="17578" centerz="5" radius="1">
+		<monster name="Bat" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17474" centery="17580" centerz="5" radius="1">
+		<monster name="Rat" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17476" centery="17581" centerz="5" radius="1">
+		<monster name="Bat" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17477" centery="17584" centerz="5" radius="1">
+		<monster name="Rat" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17474" centery="17585" centerz="5" radius="1">
+		<monster name="Bat" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17491" centery="17602" centerz="5" radius="1">
+		<monster name="Crusader" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17494" centery="17602" centerz="5" radius="1">
+		<monster name="Tank" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17491" centery="17606" centerz="5" radius="1">
+		<monster name="Tank" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17499" centery="17606" centerz="5" radius="1">
+		<monster name="Crusader" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17489" centery="17609" centerz="5" radius="1">
+		<monster name="Crusader" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17489" centery="17612" centerz="5" radius="1">
+		<monster name="Tank" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17497" centery="17612" centerz="5" radius="1">
+		<monster name="Crusader" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17495" centery="17616" centerz="5" radius="1">
+		<monster name="Tank" x="0" y="0" z="5" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17532" centery="17468" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17540" centery="17472" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17499" centery="17476" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17513" centery="17476" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17500" centery="17494" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17483" centery="17495" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17472" centery="17497" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17539" centery="17513" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17467" centery="17514" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17546" centery="17514" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17541" centery="17520" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17469" centery="17522" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17545" centery="17525" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17563" centery="17526" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17489" centery="17527" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17540" centery="17527" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17519" centery="17529" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17556" centery="17529" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17469" centery="17530" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17533" centery="17532" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17517" centery="17533" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17545" centery="17533" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17555" centery="17539" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17547" centery="17542" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17559" centery="17542" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17484" centery="17543" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17537" centery="17543" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17502" centery="17544" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17508" centery="17544" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17486" centery="17545" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17494" centery="17545" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17520" centery="17545" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17541" centery="17545" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17539" centery="17550" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="17531" centery="17554" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17472" centery="17556" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17496" centery="17558" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17501" centery="17558" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17509" centery="17558" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17490" centery="17559" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17514" centery="17559" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17523" centery="17559" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17531" centery="17559" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17486" centery="17560" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17518" centery="17560" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17590" centery="17560" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17506" centery="17561" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17586" centery="17561" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17533" centery="17562" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17578" centery="17562" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17469" centery="17564" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17519" centery="17564" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17521" centery="17564" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17529" centery="17564" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17538" centery="17564" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17544" centery="17566" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17552" centery="17566" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17473" centery="17567" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17488" centery="17567" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17590" centery="17567" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17481" centery="17568" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17532" centery="17568" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17566" centery="17568" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17580" centery="17568" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17539" centery="17569" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17560" centery="17569" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17485" centery="17570" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17526" centery="17570" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17553" centery="17570" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17545" centery="17571" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17532" centery="17572" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17519" centery="17573" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17488" centery="17574" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17534" centery="17574" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17562" centery="17574" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17566" centery="17575" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17526" centery="17576" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17512" centery="17577" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17538" centery="17577" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17547" centery="17577" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17564" centery="17577" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17567" centery="17577" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17477" centery="17578" centerz="6" radius="1">
+		<monster name="Bat" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17491" centery="17578" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17521" centery="17579" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17486" centery="17580" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17499" centery="17580" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17513" centery="17581" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17527" centery="17581" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17477" centery="17582" centerz="6" radius="1">
+		<monster name="Bat" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17534" centery="17583" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17475" centery="17584" centerz="6" radius="1">
+		<monster name="Bat" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17496" centery="17584" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17526" centery="17584" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17540" centery="17584" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17543" centery="17584" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17519" centery="17586" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17487" centery="17587" centerz="6" radius="1">
+		<monster name="Bandit" x="-1" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17502" centery="17588" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17531" centery="17589" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17538" centery="17589" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17544" centery="17589" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17518" centery="17591" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17524" centery="17591" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17538" centery="17593" centerz="6" radius="1">
+		<monster name="Bandit Human" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17493" centery="17594" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17500" centery="17595" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17515" centery="17595" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17528" centery="17595" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17534" centery="17596" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17543" centery="17596" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17505" centery="17597" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17520" centery="17597" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17522" centery="17601" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17517" centery="17602" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17537" centery="17603" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17542" centery="17604" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17529" centery="17605" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17515" centery="17606" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17505" centery="17607" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17525" centery="17607" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17533" centery="17608" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17502" centery="17609" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17540" centery="17609" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17511" centery="17610" centerz="6" radius="1">
+		<monster name="Wolf" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17518" centery="17610" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17532" centery="17611" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17505" centery="17613" centerz="6" radius="1">
+		<monster name="Bandit Scout" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17527" centery="17613" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17516" centery="17614" centerz="6" radius="1">
+		<monster name="Snake" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17520" centery="17615" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17499" centery="17616" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17510" centery="17617" centerz="6" radius="1">
+		<monster name="Bandit" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17570" centery="17443" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17558" centery="17445" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17646" centery="17445" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17563" centery="17446" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17567" centery="17447" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17582" centery="17447" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17637" centery="17447" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17653" centery="17447" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17557" centery="17448" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17575" centery="17448" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="-1" z="7" spawntime="60" direction="2" />
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17641" centery="17448" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17649" centery="17448" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17587" centery="17449" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17583" centery="17450" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17557" centery="17451" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17592" centery="17451" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17633" centery="17451" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17655" centery="17451" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17588" centery="17452" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17627" centery="17453" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17595" centery="17454" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17557" centery="17455" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17659" centery="17455" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17597" centery="17456" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17623" centery="17457" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17557" centery="17459" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17602" centery="17459" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17667" centery="17459" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17619" centery="17460" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17663" centery="17460" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17605" centery="17461" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17610" centery="17462" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17559" centery="17463" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17669" centery="17464" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17615" centery="17465" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17620" centery="17465" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17609" centery="17466" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17561" centery="17468" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17668" centery="17469" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17612" centery="17470" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17617" centery="17470" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17563" centery="17471" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17621" centery="17472" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17667" centery="17472" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17566" centery="17473" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17624" centery="17473" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17616" centery="17474" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17611" centery="17475" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17630" centery="17475" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17626" centery="17476" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17567" centery="17477" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17607" centery="17478" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17665" centery="17478" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17604" centery="17481" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17634" centery="17481" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17569" centery="17482" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17638" centery="17482" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17569" centery="17485" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17600" centery="17485" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17661" centery="17485" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17598" centery="17486" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17639" centery="17487" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17643" centery="17487" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17569" centery="17488" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17659" centery="17488" centerz="7" radius="1">
+		<monster name="Mummy" x="-1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17596" centery="17489" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17647" centery="17490" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17653" centery="17490" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17589" centery="17493" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17569" centery="17494" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17572" centery="17494" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17577" centery="17494" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17652" centery="17494" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17657" centery="17494" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17576" centery="17497" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17583" centery="17498" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17569" centery="17500" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17580" centery="17500" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17656" centery="17500" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17653" centery="17503" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17574" centery="17504" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17652" centery="17506" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17577" centery="17509" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17654" centery="17509" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17650" centery="17512" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17515" centery="17516" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17521" centery="17516" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17509" centery="17517" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17545" centery="17517" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17648" centery="17517" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17528" centery="17518" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17533" centery="17518" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17538" centery="17519" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17543" centery="17519" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17579" centery="17520" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17646" centery="17520" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17506" centery="17524" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17536" centery="17525" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17582" centery="17525" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17510" centery="17526" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17518" centery="17526" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17527" centery="17526" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17645" centery="17526" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17529" centery="17529" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17599" centery="17529" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17583" centery="17530" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17541" centery="17531" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17589" centery="17531" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17601" centery="17531" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17616" centery="17531" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17593" centery="17532" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17608" centery="17532" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17505" centery="17533" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17595" centery="17533" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17641" centery="17533" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17538" centery="17534" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17601" centery="17534" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17613" centery="17534" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17624" centery="17534" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17513" centery="17535" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17522" centery="17535" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17583" centery="17535" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17606" centery="17535" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17635" centery="17535" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17622" centery="17536" centerz="7" radius="1">
+		<monster name="Rat" x="-1" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17509" centery="17537" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17609" centery="17537" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17626" centery="17537" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17542" centery="17538" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17616" centery="17538" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17629" centery="17538" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17579" centery="17539" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17535" centery="17540" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17623" centery="17540" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17638" centery="17540" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17574" centery="17541" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17633" centery="17541" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17578" centery="17542" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17526" centery="17543" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17541" centery="17544" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17630" centery="17544" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17510" centery="17545" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17519" centery="17545" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17635" centery="17546" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17568" centery="17547" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17640" centery="17547" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17570" centery="17548" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17516" centery="17549" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17527" centery="17550" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17533" centery="17550" centerz="7" radius="1">
+		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17634" centery="17550" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="1" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17565" centery="17551" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17637" centery="17552" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17563" centery="17553" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17559" centery="17554" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17643" centery="17555" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17633" centery="17558" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17637" centery="17558" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17647" centery="17558" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17557" centery="17559" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17654" centery="17559" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17556" centery="17561" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17553" centery="17562" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17660" centery="17562" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17664" centery="17563" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17667" centery="17564" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17632" centery="17565" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17630" centery="17567" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17559" centery="17568" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17672" centery="17569" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17566" centery="17571" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17625" centery="17571" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17675" centery="17571" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17572" centery="17573" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17623" centery="17573" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17570" centery="17574" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17585" centery="17574" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17676" centery="17574" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17576" centery="17575" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17620" centery="17575" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17601" centery="17576" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17616" centery="17577" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17579" centery="17578" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17596" centery="17578" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17592" centery="17579" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17606" centery="17579" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17585" centery="17580" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17600" centery="17580" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17680" centery="17580" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17590" centery="17581" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17681" centery="17582" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17599" centery="17584" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17682" centery="17585" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17594" centery="17586" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17599" centery="17590" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17680" centery="17590" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17681" centery="17592" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17604" centery="17595" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Mummy" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17680" centery="17596" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17609" centery="17598" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17676" centery="17600" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17613" centery="17601" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17678" centery="17601" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="0" y="1" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17616" centery="17603" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17678" centery="17603" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17675" centery="17604" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17617" centery="17607" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17623" centery="17607" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17627" centery="17608" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17672" centery="17609" centerz="7" radius="1">
+		<monster name="Rat" x="1" y="-1" z="7" spawntime="60" direction="2" />
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17632" centery="17611" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17668" centery="17612" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17665" centery="17613" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17640" centery="17615" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17643" centery="17615" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<monster name="Rat" x="1" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17661" centery="17615" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17647" centery="17616" centerz="7" radius="1">
+		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17655" centery="17617" centerz="7" radius="1">
+		<monster name="Mummy" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17652" centery="17619" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17524" centery="17517" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17533" centery="17518" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17513" centery="17519" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17518" centery="17520" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17530" centery="17520" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17537" centery="17523" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17540" centery="17523" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17514" centery="17526" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17510" centery="17527" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17542" centery="17530" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17545" centery="17530" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17510" centery="17531" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17547" centery="17535" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17512" centery="17536" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17548" centery="17539" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17516" centery="17542" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17541" centery="17542" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17552" centery="17542" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17528" centery="17544" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17510" centery="17545" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17533" centery="17545" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17519" centery="17546" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17523" centery="17546" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17537" centery="17546" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17550" centery="17546" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17515" centery="17548" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17552" centery="17551" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17514" centery="17553" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17551" centery="17555" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17516" centery="17559" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17553" centery="17560" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17547" centery="17561" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17513" centery="17563" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17519" centery="17563" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17526" centery="17565" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17549" centery="17565" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17508" centery="17567" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17528" centery="17567" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17531" centery="17568" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17545" centery="17569" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17510" centery="17573" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17542" centery="17573" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17516" centery="17576" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17533" centery="17576" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17520" centery="17578" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17530" centery="17578" centerz="8" radius="1">
+		<monster name="Wolf Beast" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="17523" centery="17580" centerz="8" radius="1">
+		<monster name="Wolf" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+</spawns>

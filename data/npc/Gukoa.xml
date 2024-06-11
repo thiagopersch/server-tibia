@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Gukoa" script="default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+	<look type="891"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, |PLAYERNAME|! I buy legs. Say {trade}."/>
+		<parameter key="shop_sellable" value="
+			ornamented legs,8889,25000;
+			golden legs,8890,25000;
+			black janemba legs,8891,250000;
+			super goku legs,9776,100000;
+			legendary legs,9809,100000;
+			hitto legs,9810,100000;
+			ice barbarian legs,9928,200000;
+			hibiscus legs,8819,150000;
+			zamasu legs,8821,150000;
+			pluff legs,2468,100000;
+			mystic legs,2469,50000;
+			majin legs,2470,40000;
+			human legs,2477,40000;
+			cell legs,2478,100000;
+			demonic legs,2488,80000;
+			bardock legs,2495,50000;
+			c17 legs,2504,40000;
+			saiyan legs,2507,30000;
+			c18 legs,2647,40000;
+			majin legs,2648,40000;
+			goku legs,2649,50000;
+			supreme legs,7885,200000;
+			brolly legs,7464,50000;
+			unknow legs,7894,50000;
+			goku ssj5 legs,7895,50000;
+			janemba legs,7896,50000;
+			fusion legs,5918,50000;
+			black blue legs,3983,50000;
+			ssj5 legs,7730,100000;
+			strange legs,8923,200000;
+			bills legs,9777,100000;
+			golden freeza legs,9811,100000
+			freeza legs,8892,100000;
+			cabba legs,9808,100000;
+			hell shenlong legs,13681,200000;
+			shenlong legs,13694,200000;
+			black shenlong legs,13682,200000;
+			soldier satanic legs,13690,250000;
+			enchanted zangetsu legs,13720,250000;
+			supreme infernal's shenlong legs,13726,250000;
+			fullbring legs,13730,220000;
+			angel legs,13734,220000;
+			soulhancks,14256,270000;
+			soulstrider,14257,270000
+		"/>
+	</parameters>
+</npc>

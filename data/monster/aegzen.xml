@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<monster name="Aegzen" nameDescription="a Aegzen" race="energy" experience="95000" speed="120">
+	<health now="55000" max="55000"/>
+	<look type="2585" head="0" body="0" legs="0" feet="0" addons="0" typeex="0" corpse="49420"/>
+	<targetchange interval="4000" chance="10"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag hidename="0"/>
+		<flag hidehealth="0"/>
+		<flag lightlevel="0"/>
+		<flag lightcolor="0"/>
+		<flag lootmessage="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="20"/>
+		<flag lureable="0"/>
+		<flag walkable="0"/>
+		<flag skull="0"/>
+		<flag shield="0"/>
+		<flag emblem="0"/>
+		<flag canwalkonenergy="0"/>
+		<flag canwalkonfire="0"/>
+		<flag canwalkonpoison="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" min="0" max="-450"/>
+		<attack name="physical" interval="3000" chance="11" radius="6" target="1" min="-100" max="-300">
+			<attribute key="areaEffect" value="redspark"/>
+			<attribute key="shootEffect" value="whirlwindclub"/>
+		</attack>
+		<attack name="energy" interval="2000" chance="15" range="7" target="1" min="-60" max="-115">
+			<attribute key="areaEffect" value="explosionarea"/>
+			<attribute key="shootEffect" value="largerock"/>
+		</attack>
+	</attacks>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity poison="0"/>
+		<immunity earth="0"/>
+		<immunity ice="0"/>
+		<immunity holy="0"/>
+		<immunity death="0"/>
+		<immunity drown="0"/>
+		<immunity lifedrain="0"/>
+		<immunity manadrain="0"/>
+		<immunity outfit="0"/>
+		<immunity drunk="0"/>
+		<immunity invisible="1"/>
+		<immunity paralyze="1"/>
+	</immunities>
+	<defenses armor="35" defense="35">
+		<defense name="speed" interval="2000" chance="15" speedchange="450" duration="5000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+		<defense name="healing" interval="2000" chance="10" min="0" max="110">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element firePercent="0"/>
+		<element energyPercent="10"/>
+		<element icePercent="0"/>
+		<element poisonPercent="0"/>
+		<element holyPercent="0"/>
+		<element deathPercent="0"/>
+		<element drownPercent="0"/>
+		<element earthPercent="70"/>
+		<element physicalPercent="10"/>
+		<element lifeDrainPercent="0"/>
+		<element manaDrainPercent="10"/>
+		<element healingPercent="0"/>
+		<element undefinedPercent="0"/>
+	</elements>
+	<!-- <summons>
+		<summon name="Demon" interval="3000" chance="60" max="1"/>
+	</summons> -->
+	<voices interval="5000" chance="10">
+		<voice sentence="Go to sleep!" yell="1"/>
+	</voices>
+	<loot>
+		<item id="2148" countmax="100" chance="5000"/> <!-- gold coin -->
+		<item id="7439" chance="1500"/> <!-- berserk potion -->
+		<item id="9980" chance="100"/> <!-- crystal of power -->
+		<item id="2418" chance="900"/> <!-- golden sickle -->
+		<item id="5015" chance="100"/> <!-- mandrake -->
+		<item id="2802" chance="3200"/> <!-- sling herb -->
+		<item id="7761" countmax="10" chance="3000"/> <!-- enchanted small emerald-->
+		<item id="2670" countmax="10" chance="1500"/> <!-- health potion -->
+		<item id="2671" countmax="10" chance="1500"/> <!-- reiatsu potion -->
+		<item id="7887" chance="3200"/> <!-- terra amulet -->
+		<item id="2791" chance="4500"/> <!-- wood mushroom -->
+	</loot>
+</monster>
